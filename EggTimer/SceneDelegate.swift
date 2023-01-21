@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  EggTimer
 //
-//  Created by Angela Yu on 08/07/2019.
+//  Created by Samar Mitra on 15/11/22.
 //  Copyright © 2019 The App Brewery. All rights reserved.
 //
 
